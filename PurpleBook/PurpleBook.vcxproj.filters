@@ -24,8 +24,56 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-1.cpp">
+    <ClCompile Include="1-6三位数反转.cpp">
       <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5圆柱体表面积.cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-4a+b问题.cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3复杂的表达式计算.cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-2计算浮点数相除.cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-1计算1加2.cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-7三位数反转(2).cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-8变量交换.cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-11鸡兔同笼.cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-12三整数排序.cpp">
+      <Filter>源文件\Ch1\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="1-1平均数.cpp">
+      <Filter>源文件\Ch1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="1-2温度.cpp">
+      <Filter>源文件\Ch1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="1-3连续和.cpp">
+      <Filter>源文件\Ch1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="1-4正弦和余弦.cpp">
+      <Filter>源文件\Ch1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="1-5打折.cpp">
+      <Filter>源文件\Ch1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="1-6三角形.cpp">
+      <Filter>源文件\Ch1\test</Filter>
+    </ClCompile>
+    <ClCompile Include="1-7年份.cpp">
+      <Filter>源文件\Ch1\test</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

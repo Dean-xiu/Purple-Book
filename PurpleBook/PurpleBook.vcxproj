@@ -138,7 +138,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1-1.cpp" />
+    <ClCompile Include="1-11鸡兔同笼.cpp" />
+    <ClCompile Include="1-12三整数排序.cpp" />
+    <ClCompile Include="1-1平均数.cpp" />
+    <ClCompile Include="1-1计算1加2.cpp" />
+    <ClCompile Include="1-2温度.cpp" />
+    <ClCompile Include="1-2计算浮点数相除.cpp" />
+    <ClCompile Include="1-3复杂的表达式计算.cpp" />
+    <ClCompile Include="1-3连续和.cpp" />
+    <ClCompile Include="1-4a+b问题.cpp" />
+    <ClCompile Include="1-4正弦和余弦.cpp" />
+    <ClCompile Include="1-5圆柱体表面积.cpp" />
+    <ClCompile Include="1-5打折.cpp" />
+    <ClCompile Include="1-6三位数反转.cpp" />
+    <ClCompile Include="1-6三角形.cpp" />
+    <ClCompile Include="1-7三位数反转(2).cpp" />
+    <ClCompile Include="1-7年份.cpp" />
+    <ClCompile Include="1-8变量交换.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
