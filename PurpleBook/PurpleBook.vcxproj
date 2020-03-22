@@ -155,6 +155,30 @@
     <ClCompile Include="1-7三位数反转(2).cpp" />
     <ClCompile Include="1-7年份.cpp" />
     <ClCompile Include="1-8变量交换.cpp" />
+    <ClCompile Include="2-10数据统计(重定向).cpp" />
+    <ClCompile Include="2-11数据统计(fopen版).cpp" />
+    <ClCompile Include="2-12数据统计II.cpp" />
+    <ClCompile Include="2-1水仙花数.cpp" />
+    <ClCompile Include="2-1输出1到n的值.cpp" />
+    <ClCompile Include="2-2 7744问题.cpp" />
+    <ClCompile Include="2-2韩信点兵.cpp" />
+    <ClCompile Include="2-3倒三角形.cpp" />
+    <ClCompile Include="2-4 3n加1问题.cpp" />
+    <ClCompile Include="2-4子序列的和.cpp" />
+    <ClCompile Include="2-5分数化小数.cpp" />
+    <ClCompile Include="2-6排列(转换为字符).cpp" />
+    <ClCompile Include="2-6排列.cpp" />
+    <ClCompile Include="2-6近似计算.cpp" />
+    <ClCompile Include="2-7阶乘之和.cpp" />
+    <ClCompile Include="2-8阶乘之和(2).cpp" />
+    <ClCompile Include="2-9数据统计.cpp" />
+    <ClCompile Include="think1.cpp" />
+    <ClCompile Include="think2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data.in" />
+    <None Include="hanxin.in" />
+    <None Include="sum.in" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

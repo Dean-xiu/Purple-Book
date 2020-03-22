@@ -22,6 +22,15 @@
     <Filter Include="源文件\Ch1\test">
       <UniqueIdentifier>{f67e8025-3c92-4bc9-80c5-f86ff9a6aa78}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch2">
+      <UniqueIdentifier>{f5b568ad-4392-486a-96f7-095e180502f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch2\learn">
+      <UniqueIdentifier>{0bd35188-3413-44e1-b711-3119d468806f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch2\test">
+      <UniqueIdentifier>{7fa09a06-a514-40e4-a23c-2942105c3fd5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1-6三位数反转.cpp">
@@ -75,5 +84,73 @@
     <ClCompile Include="1-7年份.cpp">
       <Filter>源文件\Ch1\test</Filter>
     </ClCompile>
+    <ClCompile Include="2-1输出1到n的值.cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2 7744问题.cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4 3n加1问题.cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6近似计算.cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-7阶乘之和.cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-8阶乘之和(2).cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-9数据统计.cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-10数据统计(重定向).cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-11数据统计(fopen版).cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-1水仙花数.cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2韩信点兵.cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2-12数据统计II.cpp">
+      <Filter>源文件\Ch2\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3倒三角形.cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4子序列的和.cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5分数化小数.cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6排列.cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6排列(转换为字符).cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="think1.cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="think2.cpp">
+      <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data.in">
+      <Filter>源文件\Ch2\learn</Filter>
+    </None>
+    <None Include="hanxin.in">
+      <Filter>源文件\Ch2\test</Filter>
+    </None>
+    <None Include="sum.in">
+      <Filter>源文件\Ch2\test</Filter>
+    </None>
   </ItemGroup>
 </Project>
