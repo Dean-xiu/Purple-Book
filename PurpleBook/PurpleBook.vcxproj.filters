@@ -31,6 +31,15 @@
     <Filter Include="源文件\Ch2\test">
       <UniqueIdentifier>{7fa09a06-a514-40e4-a23c-2942105c3fd5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Ch3">
+      <UniqueIdentifier>{d2ce4301-b954-4125-802e-dd9a2c4c191b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch3\learn">
+      <UniqueIdentifier>{44d89298-d6ba-40aa-989a-2efb3f1e1195}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Ch3\test">
+      <UniqueIdentifier>{9c9bc362-99df-4e7d-927c-fddd33119c30}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1-6三位数反转.cpp">
@@ -140,6 +149,36 @@
     </ClCompile>
     <ClCompile Include="think2.cpp">
       <Filter>源文件\Ch2\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1 逆序输出.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2 开灯问题.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3 蛇形填数.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4 竖式问题.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5 TeX中的引号.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6 WERTYU.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7 回文词.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8 猜数字提示.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-9 生成元.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
+    </ClCompile>
+    <ClCompile Include="3-10 环状序列.cpp">
+      <Filter>源文件\Ch3\learn</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -172,6 +172,16 @@
     <ClCompile Include="2-7阶乘之和.cpp" />
     <ClCompile Include="2-8阶乘之和(2).cpp" />
     <ClCompile Include="2-9数据统计.cpp" />
+    <ClCompile Include="3-1 逆序输出.cpp" />
+    <ClCompile Include="3-10 环状序列.cpp" />
+    <ClCompile Include="3-2 开灯问题.cpp" />
+    <ClCompile Include="3-3 蛇形填数.cpp" />
+    <ClCompile Include="3-4 竖式问题.cpp" />
+    <ClCompile Include="3-5 TeX中的引号.cpp" />
+    <ClCompile Include="3-6 WERTYU.cpp" />
+    <ClCompile Include="3-7 回文词.cpp" />
+    <ClCompile Include="3-8 猜数字提示.cpp" />
+    <ClCompile Include="3-9 生成元.cpp" />
     <ClCompile Include="think1.cpp" />
     <ClCompile Include="think2.cpp" />
   </ItemGroup>
