@@ -1,4 +1,6 @@
-﻿  3-10 环状序列.cpp
-  3-9 生成元.cpp
-  正在生成代码...
+﻿  3-12 浮点数2.cpp
+F:\Purple-Book\PurpleBook\3-12 浮点数2.cpp(44,3): warning C4018: “<”: 有符号/无符号不匹配
+F:\Purple-Book\PurpleBook\3-12 浮点数2.cpp(45,4): warning C4018: “<”: 有符号/无符号不匹配
+F:\Purple-Book\PurpleBook\3-12 浮点数2.cpp(37,9): warning C4101: “M”: 未引用的局部变量
+F:\Purple-Book\PurpleBook\3-12 浮点数2.cpp(37,12): warning C4101: “E”: 未引用的局部变量
   PurpleBook.vcxproj -> F:\Purple-Book\Debug\PurpleBook.exe

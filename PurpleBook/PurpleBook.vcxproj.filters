@@ -180,6 +180,75 @@
     <ClCompile Include="3-10 环状序列.cpp">
       <Filter>源文件\Ch3\learn</Filter>
     </ClCompile>
+    <ClCompile Include="ch3_think1.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="ch3_think2.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="ch3_think3.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch3_think4.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch3_think5.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch3_think6.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1 得分.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2 分子量.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3  数数字.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4 周期串.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5 谜题.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6 纵横字谜.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7 DNA序列.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7 DNA序列2.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8 循环小数.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-9 子序列.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-9 子序列2.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-10 盒子.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-10 盒子2.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-11 换抵挡装置.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-11 换抵挡装置2.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-12 浮点数.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
+    <ClCompile Include="3-12 浮点数2.cpp">
+      <Filter>源文件\Ch3\test</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="data.in">
